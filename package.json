@@ -1,0 +1,14 @@
+{
+  "name": "simple-archiver",
+  "version": "1.0.0",
+  "description": "a simple archiving script",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  }
+}
